@@ -1,6 +1,6 @@
 # Hotel Booking Cancellation Analysis
 
-This project explores the patterns and predictors of hotel booking cancellations using data analysis, machine learning, and visual storytelling. It is designed as a complete end-to-end data analytics portfolio project.
+This project uses data analysis, machine learning, and visual storytelling to explore the patterns and predictors of hotel booking cancellations. It is designed as a complete end-to-end data analytics portfolio project.
 
 ## Problem Statement
 
@@ -16,9 +16,9 @@ Hotels face operational and financial challenges when customers cancel their boo
 | Stage | Description |
 |-------|-------------|
 | **Data Cleaning** | PySpark was used to clean, transform, and export a large hotel booking dataset. |
-| **SQL EDA**       | SQL queries helped analyze customer behavior and trends (e.g., hotel type, market segment). |
+| **SQL EDA**       | SQL queries helped analyze customer behaviour and trends (e.g., hotel type, market segment). |
 | **Python EDA**    | Further pattern exploration using visualizations (Seaborn, Matplotlib). |
-| **Modeling**      | Trained Logistic Regression, Random Forest, and Gradient Boosting to predict cancellations. |
+| **Modelling**      | Trained Logistic Regression, Random Forest, and Gradient Boosting to predict cancellations. |
 | **Storytelling**  | Built a Tableau dashboard for business-friendly insights. |
 
 ---
@@ -34,7 +34,7 @@ Key findings:
 
 ---
 
-## Modeling Summary
+## Modelling Summary
 
 | Model              | Accuracy | Precision (1) | Recall (1) | F1 Score (1) |
 |-------------------|----------|----------------|-------------|--------------|
@@ -55,8 +55,8 @@ Top features by importance:
 
 ## Tableau Dashboard
 
-Visual storytelling dashboard was built using Tableau Public:
-> **[View Dashboard]()** *(pending)*
+The visual storytelling dashboard was built using Tableau Public:
+> **[View Dashboard](https://public.tableau.com/app/profile/vishnu.venugopal2180/)**
 
 ---
 
