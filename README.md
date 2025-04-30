@@ -56,7 +56,7 @@ Top features by importance:
 ## Tableau Dashboard
 
 Visual storytelling dashboard was built using Tableau Public:
-> **[View Dashboard](https://public.tableau.com/app/profile/your_username)** *(update with real link)*
+> **[View Dashboard]()** *(pending)*
 
 ---
 
